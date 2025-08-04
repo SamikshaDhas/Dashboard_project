@@ -25,12 +25,19 @@ Built entirely in Power BI Desktop using real-world HR data
 
 6.KEY QUESTIONS
 1 What is the overall employee attrition rate in the organization?
+
 2 Which age group experiences the highest attrition?
+
 3 Does salary level impact employee turnover?
+
 4 Which job roles have the most attrition?
+
 5 Is there a difference in attrition between male and female employees?
+
 6 How does educational background relate to attrition?
+
 7 What is the average tenure and salary of employees who leave the company?
+
 8 Are there patterns in attrition based on years at the company or job level?
 
 ![Dashboard Screenshot](https://github.com/SamikshaDhas/Dashboard_project/blob/main/Screenshot%202025-08-03%20115657.png)
