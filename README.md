@@ -33,3 +33,5 @@ Built entirely in Power BI Desktop using real-world HR data
 7 What is the average tenure and salary of employees who leave the company?
 8 Are there patterns in attrition based on years at the company or job level?
 
+![Dashboard Screenshot](https://github.com/SamikshaDhas/Dashboard_project/blob/main/Screenshot%202025-08-03%20115657.png)
+
